@@ -28,12 +28,13 @@
   },
   "homepage": "https://github.com/dxwc/vidlist#readme",
   "dependencies": {
+    "@mapbox/node-pre-gyp": "^1.0.7",
     "entities": "^2.0.0",
     "moment": "^2.24.0",
-    "node-getopt": "^0.3.2",
+    "node-getopt": "https://github.com/tuxpoldo/node-getopt.git#05e498731c14b648fa332ca78d3a301c5e4be440",
     "open": "^6.4.0",
     "sqlite3": "^4.0.9",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "vid_data": "^1.0.0",
     "xss-filters": "^1.2.7"
   }
