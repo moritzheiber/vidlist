@@ -29,7 +29,7 @@
   "homepage": "https://github.com/dxwc/vidlist#readme",
   "dependencies": {
     "@mapbox/node-pre-gyp": "^1.0.7",
-    "entities": "^2.0.0",
+    "entities": "^4.4.0",
     "moment": "^2.24.0",
     "node-getopt": "https://github.com/tuxpoldo/node-getopt.git#05e498731c14b648fa332ca78d3a301c5e4be440",
     "open": "^6.4.0",
