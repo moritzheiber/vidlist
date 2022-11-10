@@ -1,0 +1,13 @@
+name: Test
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  lint-validate:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - run: npm install
+      - run: npm start
