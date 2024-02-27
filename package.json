@@ -32,7 +32,7 @@
     "entities": "^4.4.0",
     "moment": "^2.24.0",
     "node-getopt": "https://github.com/tuxpoldo/node-getopt.git#05e498731c14b648fa332ca78d3a301c5e4be440",
-    "open": "^8.4.2",
+    "open": "^10.0.4",
     "sqlite3": "^5.1.2",
     "validator": "^13.7.0",
     "vid_data": "^1.0.0",
